@@ -1,5 +1,5 @@
 {application,exlivery,
-             [{applications,[kernel,stdlib,elixir,logger]},
+             [{applications,[kernel,stdlib,elixir,logger,decimal]},
               {description,"exlivery"},
               {modules,['Elixir.Exlivery','Elixir.Exlivery.Orders.Item',
                         'Elixir.Exlivery.Orders.Order',
