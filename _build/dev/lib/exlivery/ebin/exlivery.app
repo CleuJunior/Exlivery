@@ -4,6 +4,7 @@
               {modules,['Elixir.Exlivery','Elixir.Exlivery.Orders.Item',
                         'Elixir.Exlivery.Orders.Order',
                         'Elixir.Exlivery.Users.Agent',
+                        'Elixir.Exlivery.Users.CreateOrUpdate',
                         'Elixir.Exlivery.Users.User']},
               {registered,[]},
               {vsn,"0.1.0"}]}.
