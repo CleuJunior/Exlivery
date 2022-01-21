@@ -7,6 +7,7 @@
                         'Elixir.Exlivery.Orders.CreateOrUpdate',
                         'Elixir.Exlivery.Orders.Item',
                         'Elixir.Exlivery.Orders.Order',
+                        'Elixir.Exlivery.Orders.Report',
                         'Elixir.Exlivery.Users.Agent',
                         'Elixir.Exlivery.Users.CreateOrUpdate',
                         'Elixir.Exlivery.Users.User']},
